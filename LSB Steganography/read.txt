@@ -1,0 +1,8 @@
+COmpiling:
+gcc *.c
+ENCODING:
+./a.out -e beautiful.bmp secret.txt my_stegged_img.bmp
+DECODING:
+./a.out -d stego.bmp
+
+
