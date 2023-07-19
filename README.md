@@ -1,4 +1,4 @@
-# LSB-Stenography
+# LSB-Steganography
 
 
 Stenography ?
